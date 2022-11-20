@@ -1,0 +1,40 @@
+<html>
+    <head>
+        <h1 align = "center">
+            THE HINDU
+        </h1>
+        <style>
+            h1{
+                letter-spacing: 10px;
+                word-spacing: 1px;
+                color:gold;
+            }
+            h1::first-letter{
+                font-size: 100px;
+                font-display: "times new romon";
+                color:white;
+        
+            }
+        </style>
+        <body>
+            <style>
+                body{
+                    background-color: grey;
+                }
+                
+            
+            </style>
+            <a href ="#downplease">down please</a>
+                <li><a href="#home">home</a></li>
+                <li><a href="#about">about</a>
+                <ul>
+                    <li>
+                    <a href ="https://www.thehindu.com/"target=_"blank">profile</a></li>
+                </ul>
+               </ul>
+               <h2 id ="downplease">down please</h2>
+              
+           
+    </head>
+
+</html>
